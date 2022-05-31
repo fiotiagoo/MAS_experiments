@@ -11,7 +11,7 @@ numpy==1.20.3
 scipy==1.7.1
 
 ## dictory
-See "选题1&选题2.ipynb"  for the source code of experiment 1.1-2.3. \n
+See "选题1&选题2.ipynb"  for the source code of experiment 1.1-2.3. 
 
 See "5.2.py" for the source code of experiment 5.2.
 
